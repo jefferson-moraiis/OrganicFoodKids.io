@@ -1,0 +1,55 @@
+
+#carousel{
+  max-width: 100%;;
+  position: relative;
+  top: -30px;
+}
+.container{
+  
+}
+.container img{
+  margin: 5%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+
+}
+.container h2{
+  text-align: center;
+}
+.container a{
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+#col1{
+  background-color: rgb(193, 220, 227);
+  border-radius: 10%;
+  
+ 
+}
+#col2{
+  background-color: rgb(255, 215, 39);
+  border-radius: 10%;
+  
+ 
+  
+}
+#col3{
+  background-color: rgb(247, 76, 107);
+  border-radius: 10%;
+  
+  
+}
+
+p{
+
+  font-family: 'Finger Paint';
+  font-size: 22px;
+}
+.logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
