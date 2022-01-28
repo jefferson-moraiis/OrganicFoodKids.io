@@ -6,5 +6,5 @@ Foi um tcc onde o grupo tem a ideia de fazer papinhas de bebes com produtos orga
 
 nesse projeto tive a experiencia de usar o aprendi com bootstrap e css 
 
-foi um projeto pqueno mais aprendi bastante 
+foi um projeto pequeno mais aprendi bastante 
 
